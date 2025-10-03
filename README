@@ -1,1 +1,38 @@
+## Overview
 
+A simple e-commerce website to showcase products with the ability to add items to the shopping cart.
+## Features
+
+User authentication (login / register)
+Product listing page
+Product details page
+Shopping cart (Add / Remove items)
+Calculate total price
+Secure online payment (future integration with PayPal / Visa / MasterCard)
+
+## Tech Stack
+
+HTML, CSS, JavaScript
+Tailwind CSS
+Flowbite
+Toaster (notifications)
+FontAwesome (icons)
+framework (Angular)
+
+## Installation
+
+git clone https://github.com/menna-saed/E-commerce.git
+cd E-commerce
+npm install
+npm start
+
+
+## Live Demo
+
+https://e-commerce-45hv-4iwwucywt-mennas-projects-62713dba.vercel.app
+
+## Project Status
+
+Finished ✅
+
+Developed by Menna Allah Saed
