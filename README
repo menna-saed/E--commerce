@@ -1,6 +1,6 @@
 ## Overview
+A simple e-commerce website that allows users to browse products, view details, and manage a shopping cart (add/remove items with total price calculation). Future updates may include secure payment integration.
 
-A simple e-commerce website to showcase products with the ability to add items to the shopping cart.
 ## Features
 
 User authentication (login / register)
